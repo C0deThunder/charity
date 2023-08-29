@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+body {
+    color: white;
+    text-align: center;
+    float: none;
+    font-size: 20px;
+}
+td {
+    background-color: black;
+    color: wight;
+    border: none;
+    height: 60px;
+    width: 1000px;
+    text-align: center;
+    vertical-align: middle;
+}
+.rectangle {
+    height: 100px;
+    width: 1300px;
+    vertical-align: middle;
+    transform: skew(-10deg);
+    background-color: red;
+    float: right;
+}
+img {
+    float: none;
+}
+.button {
+    height: 50px;
+    width: 100px;
+    transform: skew(10deg);
+    background-color: red;
+    border: none;
+    color: white;
+    padding: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: darkred;
+}
+a {
+    text-align: center;
+}
