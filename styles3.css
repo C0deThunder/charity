@@ -1,18 +1,16 @@
-body {
-    background-color: black;
-}
-h1 {
+.h1 {
     color: white;
     text-align: center;
     vertical-align: middle;
 }
-body {
+.body {
     color: white;
     text-align: center;
     float: none;
     font-size: 20px;
+    background-color: black;
 }
-td {
+.td {
     background-color: black;
     color: wight;
     border: none;

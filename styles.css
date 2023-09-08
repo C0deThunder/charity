@@ -1,18 +1,24 @@
-body {
+.html {
     background-color: black;
+    color: white;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -10;
 }
-h1 {
+.h1 {
     color: white;
     text-align: center;
     vertical-align: middle;
 }
-body {
+.body {
     color: white;
     text-align: center;
     float: none;
     font-size: 20px;
+    background-color: black;
 }
-td {
+.td {
     background-color: black;
     color: wight;
     border: none;
@@ -23,14 +29,20 @@ td {
 }
 .rectangle {
     height: 100px;
-    width: 1300px;
+    width: 100vw;
     vertical-align: middle;
-    transform: skew(-10deg);
     background-color: red;
-    float: right;
+    position: relative;
+    right: 0;
+    text-align: center;
+    font-size: 20pt;
+    color: black;
 }
-img {
-    float: none;
+.logo img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0;
 }
 .button {
     height: 50px;
@@ -53,4 +65,12 @@ img {
 }
 a {
     text-align: center;
+}
+.dragon img{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 30vw;
 }
