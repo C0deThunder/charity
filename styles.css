@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+}
+.html {
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -10;
+}
+.h1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.body {
+    color: white;
+    text-align: center;
+    float: none;
+    font-size: 20px;
+    background-color: black;
+}
+.td {
+    background-color: black;
+    color: wight;
+    border: none;
+    height: 60px;
+    width: 1000px;
+    text-align: right;
+    vertical-align: middle;
+}
+.rectangle {
+    height: 100px;
+    width: 100vw;
+    vertical-align: middle;
+    background-color: red;
+    position: relative;
+    right: 0;
+    text-align: center;
+    font-size: 20pt;
+    color: black;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0;
+}
+.button {
+    height: 50px;
+    width: 100px;
+    transform: skew(10deg);
+    background-color: red;
+    border: none;
+    color: white;
+    padding: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: darkred;
+}
+a {
+    text-align: center;
+}
+.dragon img{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 30vw;
+}
+/*don*/
+.html-d {
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -10;
+}
+.h1-d {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.body-d {
+    color: white;
+    text-align: center;
+    float: none;
+    font-size: 20px;
+    background-color: black;
+}
+.td-d {
+    background-color: black;
+    color: wight;
+    border: none;
+    height: 60px;
+    width: 1000px;
+    text-align: right;
+    vertical-align: middle;
+}
+.rectangle-d {
+    height: 100px;
+    width: 100vw;
+    vertical-align: middle;
+    background-color: red;
+    position: relative;
+    right: 0;
+    text-align: center;
+    font-size: 20pt;
+    color: black;
+}
+.logo-d img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0;
+}
+.button-d {
+    height: 50px;
+    width: 100px;
+    transform: skew(10deg);
+    background-color: red;
+    border: none;
+    color: white;
+    padding: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button-d:hover {
+    background-color: darkred;
+}
+a {
+    text-align: center;
+}
+.dragon-d img{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 30vw;
+}
+/*cont*/
+.html-c {
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -10;
+}
+.h1-c {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.body-c {
+    color: white;
+    text-align: center;
+    float: none;
+    font-size: 20px;
+    background-color: black;
+}
+.td-c {
+    background-color: black;
+    color: wight;
+    border: none;
+    height: 60px;
+    width: 1000px;
+    text-align: right;
+    vertical-align: middle;
+}
+.rectangle-c {
+    height: 100px;
+    width: 100vw;
+    vertical-align: middle;
+    background-color: red;
+    position: relative;
+    right: 0;
+    text-align: center;
+    font-size: 20pt;
+    color: black;
+}
+.logo-c img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 0;
+}
+.button-c {
+    height: 50px;
+    width: 100px;
+    transform: skew(10deg);
+    background-color: red;
+    border: none;
+    color: white;
+    padding: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button-c:hover {
+    background-color: darkred;
+}
+.dragon-c img{
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 30vw;
+}
